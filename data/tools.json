@@ -1,0 +1,62 @@
+[
+ {
+  "name": "ChatGPT",
+  "category": "Productivity",
+  "url": "https://chatgpt.com"
+ },
+ {
+  "name": "Claude",
+  "category": "Productivity",
+  "url": "https://claude.ai"
+ },
+ {
+  "name": "Notion",
+  "category": "Productivity",
+  "url": "https://notion.so"
+ },
+ {
+  "name": "Perplexity",
+  "category": "Research",
+  "url": "https://perplexity.ai"
+ },
+ {
+  "name": "Cursor",
+  "category": "Coding",
+  "url": "https://cursor.com"
+ },
+ {
+  "name": "GitHub Copilot",
+  "category": "Coding",
+  "url": "https://github.com/features/copilot"
+ },
+ {
+  "name": "Midjourney",
+  "category": "Design",
+  "url": "https://midjourney.com"
+ },
+ {
+  "name": "Figma",
+  "category": "Design",
+  "url": "https://figma.com"
+ },
+ {
+  "name": "Runway",
+  "category": "Video",
+  "url": "https://runwayml.com"
+ },
+ {
+  "name": "ElevenLabs",
+  "category": "Audio",
+  "url": "https://elevenlabs.io"
+ },
+ {
+  "name": "Zapier",
+  "category": "Automation",
+  "url": "https://zapier.com"
+ },
+ {
+  "name": "n8n",
+  "category": "Automation",
+  "url": "https://n8n.io"
+ }
+]

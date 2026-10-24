@@ -1,0 +1,114 @@
+{
+ "news": [
+  {
+   "title": "Open-weight models keep closing the gap with frontier labs",
+   "source": "Sample",
+   "tag": "Companies"
+  },
+  {
+   "title": "AI agents move from demos into everyday work software",
+   "source": "Sample",
+   "tag": "Trends"
+  },
+  {
+   "title": "Regulators outline new transparency rules for large models",
+   "source": "Sample",
+   "tag": "Policy"
+  },
+  {
+   "title": "Chipmakers race to expand inference capacity",
+   "source": "Sample",
+   "tag": "Companies"
+  },
+  {
+   "title": "New benchmark aims to test long-horizon reasoning",
+   "source": "Sample",
+   "tag": "Research"
+  },
+  {
+   "title": "Startups raise fresh rounds for robotics foundation models",
+   "source": "Sample",
+   "tag": "Funding"
+  },
+  {
+   "title": "On-device assistants get faster and more private",
+   "source": "Sample",
+   "tag": "Trends"
+  },
+  {
+   "title": "Researchers publish new results on efficient training",
+   "source": "Sample",
+   "tag": "Research"
+  }
+ ],
+ "trends": [
+  {
+   "title": "Agentic workflows",
+   "source": "Sample",
+   "tag": "Trend",
+   "meta": "Momentum 92"
+  },
+  {
+   "title": "AI coding assistants",
+   "source": "Sample",
+   "tag": "Trend",
+   "meta": "Momentum 88"
+  },
+  {
+   "title": "On-device small models",
+   "source": "Sample",
+   "tag": "Trend",
+   "meta": "Momentum 81"
+  },
+  {
+   "title": "Multimodal reasoning",
+   "source": "Sample",
+   "tag": "Trend",
+   "meta": "Momentum 76"
+  },
+  {
+   "title": "Robotics foundation models",
+   "source": "Sample",
+   "tag": "Trend",
+   "meta": "Momentum 70"
+  },
+  {
+   "title": "Synthetic training data",
+   "source": "Sample",
+   "tag": "Trend",
+   "meta": "Momentum 58"
+  }
+ ],
+ "launches": [
+  {
+   "title": "Next-gen open-weight language model",
+   "source": "Sample",
+   "tag": "Models"
+  },
+  {
+   "title": "AI research assistant with cited answers",
+   "source": "Sample",
+   "tag": "Products"
+  },
+  {
+   "title": "Voice agent platform for customer support",
+   "source": "Sample",
+   "tag": "Platforms"
+  },
+  {
+   "title": "Video generation with longer, steadier clips",
+   "source": "Sample",
+   "tag": "Models"
+  },
+  {
+   "title": "Meeting notes app with action-item tracking",
+   "source": "Sample",
+   "tag": "Apps"
+  },
+  {
+   "title": "Browser agent that completes multi-step tasks",
+   "source": "Sample",
+   "tag": "Features"
+  }
+ ]
+}

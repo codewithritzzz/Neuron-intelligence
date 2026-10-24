@@ -1,0 +1,152 @@
+[
+ {
+  "name": "Atlas",
+  "maker": "Boston Dynamics",
+  "description": "Humanoid built for dynamic movement and lifting.",
+  "url": "https://bostondynamics.com"
+ },
+ {
+  "name": "Spot",
+  "maker": "Boston Dynamics",
+  "description": "Agile quadruped for inspection and site work.",
+  "url": "https://bostondynamics.com"
+ },
+ {
+  "name": "Stretch",
+  "maker": "Boston Dynamics",
+  "description": "Warehouse robot that unloads trucks.",
+  "url": "https://bostondynamics.com"
+ },
+ {
+  "name": "Optimus",
+  "maker": "Tesla",
+  "description": "General-purpose humanoid for factory tasks.",
+  "url": "https://www.tesla.com/optimus"
+ },
+ {
+  "name": "Figure 02",
+  "maker": "Figure AI",
+  "description": "Humanoid aimed at commercial labor.",
+  "url": "https://figure.ai"
+ },
+ {
+  "name": "Digit",
+  "maker": "Agility Robotics",
+  "description": "Bipedal robot moving totes in warehouses.",
+  "url": "https://agilityrobotics.com"
+ },
+ {
+  "name": "G1",
+  "maker": "Unitree",
+  "description": "Compact, affordable humanoid.",
+  "url": "https://unitree.com"
+ },
+ {
+  "name": "H1",
+  "maker": "Unitree",
+  "description": "Full-size humanoid known for speed.",
+  "url": "https://unitree.com"
+ },
+ {
+  "name": "NEO",
+  "maker": "1X",
+  "description": "Home-focused humanoid assistant.",
+  "url": "https://1x.tech"
+ },
+ {
+  "name": "Apollo",
+  "maker": "Apptronik",
+  "description": "Humanoid for logistics and manufacturing.",
+  "url": "https://apptronik.com"
+ },
+ {
+  "name": "Phoenix",
+  "maker": "Sanctuary AI",
+  "description": "Humanoid with dexterous hands.",
+  "url": "https://sanctuary.ai"
+ },
+ {
+  "name": "Walker S",
+  "maker": "UBTech",
+  "description": "Humanoid tested on factory lines.",
+  "url": "https://ubtrobot.com"
+ },
+ {
+  "name": "GR-1",
+  "maker": "Fourier",
+  "description": "Humanoid for research and rehabilitation.",
+  "url": "https://fourierintelligence.com"
+ },
+ {
+  "name": "4NE-1",
+  "maker": "Neura Robotics",
+  "description": "Cognitive humanoid for industry and home.",
+  "url": "https://neura-robotics.com"
+ },
+ {
+  "name": "Ameca",
+  "maker": "Engineered Arts",
+  "description": "Expressive humanoid for human-robot interaction.",
+  "url": "https://engineeredarts.com"
+ },
+ {
+  "name": "Sophia",
+  "maker": "Hanson Robotics",
+  "description": "Social humanoid known worldwide.",
+  "url": "https://hansonrobotics.com"
+ },
+ {
+  "name": "ANYmal",
+  "maker": "ANYbotics",
+  "description": "Quadruped for industrial inspection.",
+  "url": "https://anybotics.com"
+ },
+ {
+  "name": "Moxi",
+  "maker": "Diligent Robotics",
+  "description": "Hospital helper that fetches supplies.",
+  "url": "https://diligentrobots.com"
+ },
+ {
+  "name": "da Vinci",
+  "maker": "Intuitive",
+  "description": "Robotic-assisted surgical system.",
+  "url": "https://intuitive.com"
+ },
+ {
+  "name": "Roomba",
+  "maker": "iRobot",
+  "description": "Best-known home cleaning robot.",
+  "url": "https://irobot.com"
+ },
+ {
+  "name": "Astro",
+  "maker": "Amazon",
+  "description": "Household robot for monitoring and help.",
+  "url": "https://amazon.com"
+ },
+ {
+  "name": "Aibo",
+  "maker": "Sony",
+  "description": "Robot dog with a learning personality.",
+  "url": "https://sony.com"
+ },
+ {
+  "name": "Perseverance",
+  "maker": "NASA",
+  "description": "Mars rover searching for signs of past life.",
+  "url": "https://science.nasa.gov/mission/mars-2020-perseverance"
+ },
+ {
+  "name": "Skydio",
+  "maker": "Skydio",
+  "description": "Autonomous drones for inspection and safety.",
+  "url": "https://skydio.com"
+ },
+ {
+  "name": "Pepper",
+  "maker": "SoftBank Robotics",
+  "description": "Humanoid built to read emotions.",
+  "url": "https://www.aldebaran.com"
+ }
+]
