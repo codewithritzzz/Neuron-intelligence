@@ -10,7 +10,7 @@ export default function Tools({ tools }: { tools: T[] }) {
       <div className="grid">
         {tools.filter((t) => c === "All" || t.category === c).map((t) => (
           <a key={t.name} className="card rv in" href={t.url} target="_blank" rel="noopener noreferrer">
-            <span className="tag">{t.category}</span><h3>{t.name}</h3><p>Open {t.name}</p>
+            <div className="thumb"><img className="fav" src={`https://www.google.com/s2/favicons?domain=${new URL(t.url).hostname}&sz=128`} alt="" loading="lazy" /></div><span className="tag">{t.category}</span><h3>{t.name}</h3><p>Open {t.name}</p>
           </a>
         ))}
       </div>

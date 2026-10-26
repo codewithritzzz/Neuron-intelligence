@@ -8,8 +8,14 @@ import { getNews, getTrends, getLaunches, robots, tools, type Item } from "@/lib
 
 export const revalidate = 600;
 
+const host = (u?: string) => { try { return new URL(u!).hostname; } catch { return ""; } };
+const Thumb = ({ i }: { i: Item }) => (
+  <div className="thumb">
+    {i.image ? <img src={i.image} alt="" loading="lazy" referrerPolicy="no-referrer" /> : i.url ? <img className="fav" src={`https://www.google.com/s2/favicons?domain=${host(i.url)}&sz=128`} alt="" loading="lazy" /> : null}
+  </div>
+);
 const Card = ({ i }: { i: Item }) => {
-  const b = (<>{i.tag && <span className="tag">{i.tag}</span>}<h3>{i.title}</h3><p>{[i.source, i.meta].filter(Boolean).join(" · ")}</p></>);
+  const b = (<><Thumb i={i} />{i.tag && <span className="tag">{i.tag}</span>}<h3>{i.title}</h3><p>{[i.source, i.meta].filter(Boolean).join(" · ")}</p></>);
   return i.url
     ? <a className="card rv" href={i.url} target="_blank" rel="noopener noreferrer">{b}</a>
     : <div className="card rv">{b}</div>;
